@@ -10,7 +10,7 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cześć Piesiu Lesiu z Płochocina");
+            Console.WriteLine("Cześć Piesiu Lesiu z Płochocina city");
         }
     }
 }
